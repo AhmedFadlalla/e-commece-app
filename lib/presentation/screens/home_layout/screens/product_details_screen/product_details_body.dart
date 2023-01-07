@@ -94,10 +94,7 @@ class ProductDetailsBody extends StatelessWidget {
                       myDivider(),
                       DisplayDetailsComponent(id: id),
                       myDivider(),
-
-                      defaultButton(function: (){
-
-                      }, text: "Add To Cart")
+                      
                     ],
                   ),
                 );
